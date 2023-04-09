@@ -40,7 +40,11 @@
         "sstream": "cpp",
         "stdexcept": "cpp",
         "streambuf": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "list": "cpp",
+        "set": "cpp",
+        "map": "cpp",
+        "tolopo": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
